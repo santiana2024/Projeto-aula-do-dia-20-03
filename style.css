@@ -1,0 +1,23 @@
+.title-principal{
+    color: rgb(0, 0, 0);
+    text-align: center ;
+    font-size: 40px;
+    padding: 0 40px;
+}
+.cabecalho{
+    color: rgb(247, 185, 185);
+    font-size: 40px;
+}
+.title-principal{
+    font-size: 50px;
+}
+.imagem{
+    width: 40px;
+    align-items: center;
+}
+
+.rodape{
+    font-size: 40px;
+    display: grid;
+    text-align: center;
+}
